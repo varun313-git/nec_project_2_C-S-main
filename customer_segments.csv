@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Gender,Age,Annual_Income_INR,Spending_Score,Recency,Frequency,Monetary,Cluster
+1,Aarav Sharma,Male,19,150000,39,9,11,150000,0
+2,Diya Patel,Female,21,180000,81,77,19,180000,2
+3,Vihaan Reddy,Male,20,160000,6,65,14,160000,0
+4,Ananya Gupta,Female,23,250000,77,44,15,250000,2
+5,Arjun Kumar,Male,31,400000,40,43,14,400000,1
+6,Isha Singh,Female,22,300000,76,86,15,300000,2
+7,Rohan Verma,Male,35,500000,6,9,10,500000,1
+8,Kavya Nair,Female,23,320000,94,70,3,320000,4
+9,Aditya Joshi,Male,64,800000,3,20,16,800000,3
+10,Sneha Rao,Female,30,600000,72,10,9,600000,1
